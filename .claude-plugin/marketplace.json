@@ -1,0 +1,12 @@
+{
+  "name": "fox-mods",
+  "owner": { "name": "fox-mods" },
+  "plugins": [
+    {
+      "name": "fox-on-prompt",
+      "source": "./plugins/fox-on-prompt",
+      "description": "Context usage bar by category + pixel fox and crab smoking a hookah above the prompt",
+      "version": "0.2.0"
+    }
+  ]
+}
